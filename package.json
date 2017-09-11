@@ -1,0 +1,29 @@
+{
+  "name": "grenache-nodejs-proxy",
+  "version": "0.1.0",
+  "description": "Grenache Node.js Proxy service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "~2.5.0",
+    "cbq": "0.0.1",
+    "debug": "~2.2.0",
+    "grenache-nodejs-base": "^0.5.0",
+    "grenache-nodejs-link": "^0.5.0",
+    "lodash": "~4.17.4",
+    "uuid": "~3.0.1",
+    "uws": "^8.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcssabbagh/grenache-nodejs-proxy.git"
+  },
+  "author": "prdn <paolo@bitfinex.com> (https://bitfinex.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcssabbagh/grenache-nodejs-proxy/issues"
+  },
+  "homepage": "https://github.com/gcssabbagh/grenache-nodejs-proxy#readme"
+}
